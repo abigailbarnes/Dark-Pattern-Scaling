@@ -1,0 +1,2 @@
+confirmshame,friendspam,privacyzuckering,checkbox,urgency
+58,20,198,2,60

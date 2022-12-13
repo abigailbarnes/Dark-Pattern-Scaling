@@ -1,0 +1,2 @@
+confirmshame,friendspam,privacyzuckering,checkbox,urgency
+22,87,106,2,69

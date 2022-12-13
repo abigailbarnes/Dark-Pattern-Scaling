@@ -1,0 +1,2 @@
+confirmshame,friendspam,privacyzuckering,checkbox,urgency
+2,8,5,2,2

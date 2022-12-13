@@ -1,0 +1,2 @@
+confirmshame,friendspam,privacyzuckering,checkbox,urgency
+91,21,10,1,35

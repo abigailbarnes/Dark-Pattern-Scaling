@@ -1,0 +1,2 @@
+confirmshame,friendspam,privacyzuckering,checkbox,urgency
+65,7,80,0,134

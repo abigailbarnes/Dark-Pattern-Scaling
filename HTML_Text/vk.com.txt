@@ -1,0 +1,295 @@
+<!DOCTYPE html>
+<html class="vk vk_js_no vk_1x vk_flex_no r d h vk_appAuth_no n vk_old vk_schemes_no" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, minimal-ui, user-scalable=no" name="viewport">
+   <meta content="telephone=no" name="format-detection"/>
+   <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+   <meta content="176" name="MobileOptimized"/>
+   <meta content="True" name="HandheldFriendly"/>
+   <base id="base"/>
+   <meta content="VK is the largest European social network with more than 100 million active users. Our goal is to keep old friends, ex-classmates, neighbors and colleagues in touch." name="description"/>
+   <meta content="VK is the largest European social network with more than 100 million active users. Our goal is to keep old friends, ex-classmates, neighbors and colleagues in touch." property="og:description"/>
+   <link href="/images/icons/favicons/fav_logo.ico?8" rel="shortcut icon"/>
+   <link href="/images/icons/pwa/favicon_32.png?12" rel="icon" sizes="32x32" type="image/png"/>
+   <link href="/images/icons/pwa/apple/default.png?15" rel="apple-touch-icon"/>
+   <meta content="VK" name="apple-mobile-web-app-title"/>
+   <meta content="VK" name="application-name"/>
+   <meta content="yes" name="mobile-web-app-capable"/>
+   <meta content="black" name="apple-mobile-web-app-status-bar-style"/>
+   <meta content="#ffffff" name="theme-color"/>
+   <meta content="light" name="color-scheme"/>
+   <title>
+    VK mobile version | VK
+   </title>
+   <meta content="Av8ECqeAAIiC9bF3N7aq2M/TaxNzzpPcFXnw0rRb9KRUQlbyHKYmPj6KeVUFVDk+S7W9RfJH2GsEOS8G99uJvgcAAABaeyJvcmlnaW4iOiJodHRwczovL3ZrLmNvbTo0NDMiLCJmZWF0dXJlIjoiQmFkZ2luZyIsImV4cGlyeSI6MTU2MTY2MTkxNCwiaXNTdWJkb21haW4iOnRydWV9" http-equiv="origin-trial"/>
+   <script nomodule="">
+    window.nomodules = true;
+   </script>
+   <script>
+    (function() {
+            window.vk = {"id":0,"__debug":false,"__dev":false,"__domain":"vk.com","wsTransport":"https:\/\/stats.vk-portal.net","statsMeta":{"platform":"mvk","st":false,"time":1653929656,"hash":"ByBbWuOGwSNNmoqsettrDWqzaoXLWw4VPVH9YzMabUH"},"tnsPixelType":"unauth","tnsPixelSocdem":"13","platform":"mvk","liteMode":{"enabled":false,"reminderDisabled":false,"hash":"fe3fe31c794ceb441a"},"apiConfigDomains":{"apiDomain":"api.vk.com","loginDomain":"login.vk.com","connectDomain":"id.vk.com"},"logoutUrl":"https:\/\/login.vk.com\/?act=logout_mobile&hash=26484838a9ac77726b&_origin=https%3A%2F%2Fm.vk.com","rv":"111240","ts":1653929656,"sw":null,"stFiles":{"https:\/\/st6-21.vk.com\/css\/mobile\/legacy_fallback.2b95eba516fb588edffb.css":"","https:\/\/st6-21.vk.com\/css\/mobile\/common_fallback.f2fa7a601e99a1074362.css":"","https:\/\/st6-21.vk.com\/css\/mobile\/audio_fallback.23e4b06d3c41284f7ebe.css":"","https:\/\/st6-21.vk.com\/css\/mobile\/vkui_fallback.0d6a49e529dd18a64255.css":"","https:\/\/st6-21.vk.com\/css\/mobile\/qsearch_fallback.2a13b06297e7f1270f79.css":"","https:\/\/st6-21.vk.com\/css\/mobile\/unauthorized_fallback.7a1171234b462153c7d1.css":"","https:\/\/st6-21.vk.com\/css\/mobile\/owner_photo_upload_fallback.1fb24145e70ab89dfe13.css":"","https:\/\/st6-21.vk.com\/dist\/mobile\/vendor~icons_fallback.8abb65cae099c434fe84.js":"46f1a12e8ca0407a3246ee354a46b36cedb8509541f2adb7dbedf2f20065e535","https:\/\/st6-21.vk.com\/dist\/mobile\/vendor~search_fallback.802ac3b194b5f334feb9.js":"96df38931f454466b2e72a75b402536dd5d04797a09d976329f4dc5db3a3f02a","https:\/\/st6-21.vk.com\/dist\/mobile\/qsearch_fallback.8b0aafa0a2a2e2c1970b.js":"ddda342128a2ec6bf350a28b37dba7c489697e23a960239f113fe5299bf98824","https:\/\/st6-21.vk.com\/dist\/mobile\/grip_fallback.86b8b1d353916a9e0d55.js":"5e6c6bafaf3b1e4bdb7b9f913c9378146ccafd598adfdc466d2d540b1ddd2e41","https:\/\/st6-21.vk.com\/dist\/mobile\/icons_fallback.699cc26b7deae7f5496f.js":"b7af65922b7d27d26f20c804aad02b7e45d3d010357e11bb9b64305f0f2ad97c","https:\/\/st6-21.vk.com\/dist\/mobile\/unauthorized_fallback.40753cb8a63d03e06180.js":"b7e90fd6dba4ab7da230b85df4bc0a5a7381396b6d9717e23df98b33e3716ce6","https:\/\/st6-21.vk.com\/dist\/mobile\/owner_photo_upload_fallback.fa464bbf5e781e6f51c4.js":"88a4a1cbd0ea613d92222f7a126d8ab4a2596ef30fccbdf96a68dce873ed6d46"},"stDomain":"https:\/\/st6-21.vk.com","stNavMap":{"^\\\/join":["https:\/\/st6-21.vk.com\/dist\/mobile\/join_fallback.f4047a5fb4d1dd80dc23.js","https:\/\/st6-21.vk.com\/css\/mobile\/join_fallback.32b9a4f0f3a889ec7b6b.css"],"promocode(\\\/([0-9a-zA-Z-]+))?":["https:\/\/st6-21.vk.com\/dist\/mobile\/promocode_fallback.50aae4ae536276f07000.js","https:\/\/st6-21.vk.com\/css\/mobile\/promocode_fallback.1aa8a4979f831f369e3c.css"],"^\\\/audio":["https:\/\/st6-21.vk.com\/dist\/mobile\/icons_fallback.699cc26b7deae7f5496f.js","https:\/\/st6-21.vk.com\/dist\/mobile\/vendor_fallback.e98bf6f88913d9769cef.js","https:\/\/st6-21.vk.com\/dist\/mobile\/audio_fallback.f123fecc13dda4b8d152.js"],"^\\\/video":["https:\/\/st6-21.vk.com\/dist\/mobile\/icons_fallback.699cc26b7deae7f5496f.js","https:\/\/st6-21.vk.com\/dist\/mobile\/video_fallback.0d49be44ca69ad1c6da5.js","https:\/\/st6-21.vk.com\/css\/mobile\/video_fallback.8481fa805584ea96b1bb.css","https:\/\/st6-21.vk.com\/css\/mobile\/mail_fallback.8014ed3d57f9ddf3e817.css"],"^\\\/clip":["https:\/\/st6-21.vk.com\/dist\/mobile\/short_video_fallback.b71be48f4dd974a4ee09.js","https:\/\/st6-21.vk.com\/css\/mobile\/ShortVideoPage_fallback.17aff9be95df0678de63.css","https:\/\/st6-21.vk.com\/css\/mobile\/mail_fallback.8014ed3d57f9ddf3e817.css"],"^\\\/(photo|album|tag|attachments|market|uslugi)":["https:\/\/st6-21.vk.com\/dist\/mobile\/photoview_fallback.5cb51bb9732619c062c2.js","https:\/\/st6-21.vk.com\/dist\/mobile\/icons_fallback.699cc26b7deae7f5496f.js","https:\/\/st6-21.vk.com\/dist\/mobile\/photo_fallback.3df7078b581a376b227e.js","https:\/\/st6-21.vk.com\/css\/mobile\/photo_fallback.3688d12ae2ed6c011acb.css","https:\/\/st6-21.vk.com\/css\/mobile\/mail_fallback.8014ed3d57f9ddf3e817.css"],"^\\\/(wall|mail|write|im|chatjoin)":["https:\/\/st6-21.vk.com\/css\/mobile\/mail_fallback.8014ed3d57f9ddf3e817.css","https:\/\/st6-21.vk.com\/css\/mobile\/wall_fallback.e52bfd9f821651fbbb72.css"],"settings\\?act=money_transfer_history":["https:\/\/st6-21.vk.com\/dist\/mobile\/money_transfer_history_fallback.47c1ecc08a46da14cf27.js","https:\/\/st6-21.vk.com\/css\/mobile\/money_transfer_history_fallback.a8b6c42cb98a718db36b.css"],"^\\\/settings":["https:\/\/st6-21.vk.com\/dist\/mobile\/settings_fallback.60a4b85193f3c76b6e38.js","https:\/\/st6-21.vk.com\/css\/mobile\/settings_fallback.6516a86e4a7b51b5998b.css"],"settings\\?act=business_notify":["https:\/\/st6-21.vk.com\/dist\/mobile\/business_notify_settings_fallback.0c5b663100c33bc71fbe.js","https:\/\/st6-21.vk.com\/css\/mobile\/business_notify_settings_fallback.ec575813e486f62ee8c3.css"],"reports\\?act=":["https:\/\/st6-21.vk.com\/css\/mobile\/reports_fallback.c63153869139f4bf1d9c.css"],"^\\\/(blog|about|press|jobs|products|adv)":["https:\/\/st6-21.vk.com\/dist\/mobile\/blog_fallback.6cd4278e12a6daf2841b.js","https:\/\/st6-21.vk.com\/css\/mobile\/blog_fallback.8e7c8364dd852bd4f9a7.css","https:\/\/st6-21.vk.com\/css\/mobile\/mail_fallback.8014ed3d57f9ddf3e817.css"],"^\\\/(product|cart|cart_order|orders|market\\.php)(\\??[0-9a-zA-Z=_-]+)?":["https:\/\/st6-21.vk.com\/dist\/mobile\/icons_fallback.699cc26b7deae7f5496f.js","https:\/\/st6-21.vk.com\/dist\/mobile\/market_fallback.fc4ff2964b8413fd3d73.js","https:\/\/st6-21.vk.com\/css\/mobile\/market_fallback.0af0210b6ae92af36b42.css"],"^\\\/(reviews)":["https:\/\/st6-21.vk.com\/dist\/mobile\/icons_fallback.699cc26b7deae7f5496f.js","https:\/\/st6-21.vk.com\/dist\/mobile\/market_fallback.fc4ff2964b8413fd3d73.js","https:\/\/st6-21.vk.com\/css\/mobile\/market_fallback.0af0210b6ae92af36b42.css","https:\/\/st6-21.vk.com\/css\/mobile\/photo_fallback.3688d12ae2ed6c011acb.css"],"^\\\/(vkcrowdsource)":["https:\/\/st6-21.vk.com\/dist\/mobile\/crowdsource_fallback.d4703ae1d8fe3ce7dc71.css","https:\/\/st6-21.vk.com\/dist\/mobile\/crowdsource_fallback.430450f89e8b2607a25e.js","https:\/\/st6-21.vk.com\/css\/mobile\/crowdsource_fallback.587470757a38a09aa172.css"],"^\\\/groups_catalog\\\/([0-9a-zA-Z_\\-]+)$":["https:\/\/st6-21.vk.com\/dist\/mobile\/groups_catalog_fallback.14a229dce981bb869650.js"],"z=(story|narrative)(-?\\d+_\\d+)":["https:\/\/st6-21.vk.com\/dist\/mobile\/icons_fallback.699cc26b7deae7f5496f.js","https:\/\/st6-21.vk.com\/dist\/mobile\/stories_fallback.f340bef5a5077eede155.js"],"z=photo(-?\\d+_\\d+)":["https:\/\/st6-21.vk.com\/dist\/mobile\/icons_fallback.699cc26b7deae7f5496f.js","https:\/\/st6-21.vk.com\/dist\/mobile\/photo_fallback.3df7078b581a376b227e.js"]},"stDeps":{"apple_viewport_bug_demo.js":["apple_viewport_bug_demo.57af5a53527f9ebadb43.js"],"apps.js":["icons.699cc26b7deae7f5496f.js","vendor.d16f5c3443c411e49b37.js","vendor~lottie.1dd9d57b57f591040bbd.js","apps.a1f328c6366d90126f46.js"],"apps_connect.js":["b-4058e09ab5200ed1eb2e43364b82a2dd.5d391ac14f5bc4af7f59.js","apps_connect.8a931afb0d9c2ee37c9d.css","apps_connect.04ab51fcd78caa2e0b9c.js"],"apps_stub.js":["apps_stub.867cd54ea82a616f5cbd.js"],"article.js":["icons.699cc26b7deae7f5496f.js","vendor.d16f5c3443c411e49b37.js","vendor~effector.0c54dfe7f8cef7f64cb3.js","vendor~vkui.87c24b6c1c0f38a7e3ce.css","vendor~vkui.f2f4565a72b2b2bc6fa3.js","nav.7690539746b86b61bfbd.js","vendor~vkjs.5fd79732062f952c9b53.js","b-56a894446599f6f94ed5f8663b6e37b9.f7cb4f640eedaf3fd18c.js","b-152b11b23f0c2a0dfca81506c7b89efb.e5ed7c24243010cea88b.js","article.fe247d02339b08a62562.js"],"audio.js":["icons.699cc26b7deae7f5496f.js","vendor.d16f5c3443c411e49b37.js","audio.c74fcb9ee667a7daeab3.js"],"audio_player_bottom.js":["icons.699cc26b7deae7f5496f.js","audio_player_bottom.2396047ea0e32e330c32.js"],"audio_player_mini.js":["icons.699cc26b7deae7f5496f.js","audio_player_mini.8b28141112c88eeffa8d.js"],"audio_searcher.js":["icons.699cc26b7deae7f5496f.js","audio_searcher.995ad42405b4dc6e9694.js"],"banned_tutorial.js":["banned_tutorial.88594cabfa2b14b7d3de.js"],"best_friends.js":["best_friends.f50ac4b85aadccfb68ff.js"],"blog.js":["blog.f30237deaf45e523505c.js"],"business_notify_settings.js":["business_notify_settings.c5fe2afabb5affb29178.js"],"chat_photo_upload.js":["chat_photo_upload.f93f0e3915e49a976857.js"],"common.js":["icons.699cc26b7deae7f5496f.js","vendor.d16f5c3443c411e49b37.js","vendor~icons.8abb65cae099c434fe84.js","vendor~effector.0c54dfe7f8cef7f64cb3.js","vendor~vkui.87c24b6c1c0f38a7e3ce.css","vendor~vkui.f2f4565a72b2b2bc6fa3.js","nav.7690539746b86b61bfbd.js","vendor~vkjs.5fd79732062f952c9b53.js","vendor~react.0256e5eee787a675ba64.js","vendor~qr.a30273097b3c74641364.js","b-56a894446599f6f94ed5f8663b6e37b9.f7cb4f640eedaf3fd18c.js","b-152b11b23f0c2a0dfca81506c7b89efb.e5ed7c24243010cea88b.js","common.f5bef778c30735e59055.css","common.48d8e19a11be8cfd4832.js"],"connect.js":["vendor.d16f5c3443c411e49b37.js","connect.de67ee699889f24c5847.js"],"cookie_banner.js":["cookie_banner.22ab1781a2d1180073c9.js"],"crowdsource.js":["crowdsource.cc2178394222cc553e50.css","crowdsource.430450f89e8b2607a25e.js"],"easter_eggs.js":["icons.699cc26b7deae7f5496f.js","easter_eggs.40225c3d68f281cfc346.js"],"feed_animated_block.js":["feed_animated_block.89670853823c34364b1d.css","feed_animated_block.0454074ffd1ec15d65b4.js"],"game_install_screen.js":["icons.699cc26b7deae7f5496f.js","vendor.d16f5c3443c411e49b37.js","vendor~effector.0c54dfe7f8cef7f64cb3.js","vendor~vkui.87c24b6c1c0f38a7e3ce.css","vendor~vkui.f2f4565a72b2b2bc6fa3.js","nav.7690539746b86b61bfbd.js","vendor~vkjs.5fd79732062f952c9b53.js","b-56a894446599f6f94ed5f8663b6e37b9.f7cb4f640eedaf3fd18c.js","game_install_screen.b5f6feb7d1b23bc76282.js"],"grip.js":["grip.29510f3e521091508d73.js"],"groups_catalog.js":["groups_catalog.2168b612daa0e9899adc.js"],"join.js":["join.f4047a5fb4d1dd80dc23.js"],"js_errors_logger.js":["vendor~raven.492cb28ea61f5fa1a824.js","js_errors_logger.2f62cafc748158791532.js"],"mail.js":["icons.699cc26b7deae7f5496f.js","vendor.d16f5c3443c411e49b37.js","mail.e8665c43183ef26c2c72.js"],"market.js":["icons.699cc26b7deae7f5496f.js","market.7a364bcfda6d1439e452.js"],"market_analytics.js":["market_analytics.96eb53ee158a914d67de.js"],"mini_apps_catalog.js":["mini_apps_catalog.5719d1b6630b0eac7ef5.js"],"mini_apps_catalog_search.js":["mini_apps_catalog_search.ba307bdabc950c89373d.js"],"mini_apps_left_menu_tooltip.js":["mini_apps_left_menu_tooltip.1d2596ead0ba19f1dc45.js"],"mini_apps_recommended_carousel.js":["mini_apps_recommended_carousel.c7a3f71f63d945ad2c44.js"],"money_transfer_history.js":["money_transfer_history.27dbe13392812d5b93b2.js"],"narratives.js":["vendor~polyfills.4ab190e5c3efeb00e7d7.js","vendor~draggable.18fcaef9e040446579dc.js","narratives.3afe59a7ce59cb8b65d6.js"],"openapi.js":["openapi.26b97adc7e2c066b17f6.js"],"owner_photo_upload.js":["owner_photo_upload.fa464bbf5e781e6f51c4.js"],"page_bottom_banners.js":["icons.699cc26b7deae7f5496f.js","page_bottom_banners.bd324378b4184005bdca.js"],"payments.js":["payments.acd26d757ba0e03fa1e6.js"],"performance_observers.js":["vendor.d16f5c3443c411e49b37.js","performance_observers.694effc74fe39fbe5583.js"],"photo.js":["icons.699cc26b7deae7f5496f.js","photo.3df7078b581a376b227e.js"],"photoview.js":["photoview.5cb51bb9732619c062c2.js"],"polyfills.js":["runtime.ee7918308c6655a7e1d1.js","vendor~polyfills.4ab190e5c3efeb00e7d7.js","polyfills.5cdb7492628783bd8d8f.js"],"profile.js":["profile.869c2adcf0e019f18f96.js"],"promocode.js":["promocode.00b1b2008c4eca1b088c.js"],"qrcode.js":["qrcode.c486c64369dbd3114932.js"],"qsearch.js":["vendor~icons.8abb65cae099c434fe84.js","vendor~search.c79e93e17cc5b1870007.js","qsearch.8b0aafa0a2a2e2c1970b.js"],"reactions.js":["reactions.f8e1245e8c19db1caff4.js"],"redirect_screen.js":["icons.699cc26b7deae7f5496f.js","redirect_screen.af6fcd8442442a8a8cdb.js"],"sak_unauthorized.js":["sak_unauthorized.eba0da01dac7854fe854.js"],"search_catalog.js":["search_catalog.33b516be865e66e235fe.js"],"sentry.js":["vendor.d16f5c3443c411e49b37.js","vendor~sentry.41537c0f2bf13a593ad0.js","sentry.e88ef379b6007ca37382.js"],"settings.js":["settings.f8623ab65d494e49d2fb.js"],"short_video.js":["short_video.5086816457fa70e525e8.js"],"stories.js":["icons.699cc26b7deae7f5496f.js","stories.eadb6bfd5e63f8e55f31.js"],"stories_archive.js":["stories_archive.c236385dc53134f22bed.js"],"textlives.js":["icons.699cc26b7deae7f5496f.js","textlives.702e70da7185b7514707.js"],"thumbs_edit.js":["icons.699cc26b7deae7f5496f.js","thumbs_edit.dd3153e51ce7913489ff.js"],"unauthorized.js":["icons.699cc26b7deae7f5496f.js","unauthorized.40753cb8a63d03e06180.js"],"unauthorized_search.js":["unauthorized_search.57eb0805e504b1c589be.js"],"video.js":["icons.699cc26b7deae7f5496f.js","video.2eb03aa731442a84704d.js"],"vk_sans_observer.js":["vk_sans_observer.6a9a1f5860488cae5902.js"],"vkapps.js":["icons.699cc26b7deae7f5496f.js","b-4058e09ab5200ed1eb2e43364b82a2dd.5d391ac14f5bc4af7f59.js","vkapps.3a201a588fa5923b14e6.css","vkapps.87de24e3c53d1d4c2653.js"],"vkui_playground.js":["vkui_playground.036c575c4a64959ff9d3.js"],"wall_posting.js":["wall_posting.24c524c8c29661e4c3e7.js"],"xss_playground.js":["xss_playground.b34e824c0eaa45873b50.js"],"youla.js":["youla.a99ec58777036ff20f50.js"],"apple_viewport_bug_demo_fallback.js":["apple_viewport_bug_demo_fallback.57af5a53527f9ebadb43.js"],"apps_fallback.js":["icons_fallback.699cc26b7deae7f5496f.js","vendor_fallback.e98bf6f88913d9769cef.js","vendor~lottie_fallback.07e8aa473434c4738ba0.js","apps_fallback.0d7800141dcabcebda20.js"],"apps_connect_fallback.js":["vendor_fallback.e98bf6f88913d9769cef.js","b-4058e09ab5200ed1eb2e43364b82a2dd_fallback.895cf36be483713161b4.js","apps_connect_fallback.b913a3a135abff38ba68.css","apps_connect_fallback.027a991a2a193de21fd0.js"],"apps_stub_fallback.js":["apps_stub_fallback.bbab3e92bec65c4c462a.js"],"article_fallback.js":["icons_fallback.699cc26b7deae7f5496f.js","vendor_fallback.e98bf6f88913d9769cef.js","vendor~effector_fallback.0c54dfe7f8cef7f64cb3.js","vendor~vkui_fallback.1f3e9c2baa58f01ac6ea.css","vendor~vkui_fallback.f2f4565a72b2b2bc6fa3.js","nav_fallback.0697db0bfd45d307f0ff.js","vendor~vkjs_fallback.5fd79732062f952c9b53.js","b-56a894446599f6f94ed5f8663b6e37b9_fallback.911933863d5472087deb.js","b-152b11b23f0c2a0dfca81506c7b89efb_fallback.0cc3a2ed6ef5e2892c67.js","article_fallback.053d0a5a1043ba4d0a62.js"],"audio_fallback.js":["icons_fallback.699cc26b7deae7f5496f.js","vendor_fallback.e98bf6f88913d9769cef.js","audio_fallback.f123fecc13dda4b8d152.js"],"audio_player_bottom_fallback.js":["icons_fallback.699cc26b7deae7f5496f.js","audio_player_bottom_fallback.eed521af68eb7d349787.js"],"audio_player_mini_fallback.js":["icons_fallback.699cc26b7deae7f5496f.js","audio_player_mini_fallback.1cf4a0a34c8915e5cb7d.js"],"audio_searcher_fallback.js":["icons_fallback.699cc26b7deae7f5496f.js","audio_searcher_fallback.f384893476ddc201390e.js"],"banned_tutorial_fallback.js":["banned_tutorial_fallback.6be2cb9509b580a148ae.js"],"best_friends_fallback.js":["best_friends_fallback.a5909712582bdbeaecd2.js"],"blog_fallback.js":["blog_fallback.6cd4278e12a6daf2841b.js"],"business_notify_settings_fallback.js":["business_notify_settings_fallback.0c5b663100c33bc71fbe.js"],"chat_photo_upload_fallback.js":["chat_photo_upload_fallback.f93f0e3915e49a976857.js"],"common_fallback.js":["icons_fallback.699cc26b7deae7f5496f.js","vendor_fallback.e98bf6f88913d9769cef.js","vendor~icons_fallback.8abb65cae099c434fe84.js","vendor~effector_fallback.0c54dfe7f8cef7f64cb3.js","vendor~vkui_fallback.1f3e9c2baa58f01ac6ea.css","vendor~vkui_fallback.f2f4565a72b2b2bc6fa3.js","nav_fallback.0697db0bfd45d307f0ff.js","vendor~vkjs_fallback.5fd79732062f952c9b53.js","vendor~react_fallback.eed909c632a518ed8dd1.js","vendor~qr_fallback.b862701d4dfb13866ed2.js","b-56a894446599f6f94ed5f8663b6e37b9_fallback.911933863d5472087deb.js","b-152b11b23f0c2a0dfca81506c7b89efb_fallback.0cc3a2ed6ef5e2892c67.js","common_fallback.f5bef778c30735e59055.css","common_fallback.c1e5f2b72f1f359f784f.js"],"connect_fallback.js":["vendor_fallback.e98bf6f88913d9769cef.js","connect_fallback.de67ee699889f24c5847.js"],"cookie_banner_fallback.js":["cookie_banner_fallback.22ab1781a2d1180073c9.js"],"crowdsource_fallback.js":["crowdsource_fallback.d4703ae1d8fe3ce7dc71.css","crowdsource_fallback.430450f89e8b2607a25e.js"],"easter_eggs_fallback.js":["icons_fallback.699cc26b7deae7f5496f.js","easter_eggs_fallback.03e9397b9ad2aeb36e58.js"],"feed_animated_block_fallback.js":["feed_animated_block_fallback.7703a53ccb92177b9411.css","feed_animated_block_fallback.0454074ffd1ec15d65b4.js"],"game_install_screen_fallback.js":["icons_fallback.699cc26b7deae7f5496f.js","vendor_fallback.e98bf6f88913d9769cef.js","vendor~effector_fallback.0c54dfe7f8cef7f64cb3.js","vendor~vkui_fallback.1f3e9c2baa58f01ac6ea.css","vendor~vkui_fallback.f2f4565a72b2b2bc6fa3.js","nav_fallback.0697db0bfd45d307f0ff.js","vendor~vkjs_fallback.5fd79732062f952c9b53.js","b-56a894446599f6f94ed5f8663b6e37b9_fallback.911933863d5472087deb.js","game_install_screen_fallback.4c837f700c52b085c60a.js"],"grip_fallback.js":["grip_fallback.86b8b1d353916a9e0d55.js"],"groups_catalog_fallback.js":["groups_catalog_fallback.14a229dce981bb869650.js"],"join_fallback.js":["join_fallback.f4047a5fb4d1dd80dc23.js"],"js_errors_logger_fallback.js":["vendor~raven_fallback.492cb28ea61f5fa1a824.js","js_errors_logger_fallback.cd01bcdba8c010f36922.js"],"mail_fallback.js":["icons_fallback.699cc26b7deae7f5496f.js","vendor_fallback.e98bf6f88913d9769cef.js","mail_fallback.d028b2a01d3eb0e72056.js"],"market_fallback.js":["icons_fallback.699cc26b7deae7f5496f.js","market_fallback.fc4ff2964b8413fd3d73.js"],"market_analytics_fallback.js":["market_analytics_fallback.96eb53ee158a914d67de.js"],"mini_apps_catalog_fallback.js":["mini_apps_catalog_fallback.5719d1b6630b0eac7ef5.js"],"mini_apps_catalog_search_fallback.js":["mini_apps_catalog_search_fallback.7220c5b13628b48b7486.js"],"mini_apps_left_menu_tooltip_fallback.js":["mini_apps_left_menu_tooltip_fallback.1d2596ead0ba19f1dc45.js"],"mini_apps_recommended_carousel_fallback.js":["mini_apps_recommended_carousel_fallback.c7a3f71f63d945ad2c44.js"],"money_transfer_history_fallback.js":["money_transfer_history_fallback.47c1ecc08a46da14cf27.js"],"narratives_fallback.js":["vendor~polyfills_fallback.4ab190e5c3efeb00e7d7.js","vendor~draggable_fallback.18fcaef9e040446579dc.js","narratives_fallback.42de7cb3fb6ff138eb4f.js"],"openapi_fallback.js":["openapi_fallback.bd544e276bc1e729af2e.js"],"owner_photo_upload_fallback.js":["owner_photo_upload_fallback.fa464bbf5e781e6f51c4.js"],"page_bottom_banners_fallback.js":["icons_fallback.699cc26b7deae7f5496f.js","page_bottom_banners_fallback.9414c47b62f29edad45b.js"],"payments_fallback.js":["payments_fallback.1a0b4b4b31929972f8d8.js"],"performance_observers_fallback.js":["vendor_fallback.e98bf6f88913d9769cef.js","performance_observers_fallback.694effc74fe39fbe5583.js"],"photo_fallback.js":["icons_fallback.699cc26b7deae7f5496f.js","photo_fallback.3df7078b581a376b227e.js"],"photoview_fallback.js":["photoview_fallback.5cb51bb9732619c062c2.js"],"polyfills_fallback.js":["runtime_fallback.2b831d3a65489335aed6.js","vendor_fallback.e98bf6f88913d9769cef.js","vendor~polyfills_fallback.4ab190e5c3efeb00e7d7.js","polyfills_fallback.e47cc430cfb7112d2aff.js"],"profile_fallback.js":["profile_fallback.869c2adcf0e019f18f96.js"],"promocode_fallback.js":["promocode_fallback.50aae4ae536276f07000.js"],"qrcode_fallback.js":["qrcode_fallback.c486c64369dbd3114932.js"],"qsearch_fallback.js":["vendor~icons_fallback.8abb65cae099c434fe84.js","vendor~search_fallback.802ac3b194b5f334feb9.js","qsearch_fallback.8b0aafa0a2a2e2c1970b.js"],"reactions_fallback.js":["reactions_fallback.af95a3a9fa24bdcc5325.js"],"redirect_screen_fallback.js":["icons_fallback.699cc26b7deae7f5496f.js","redirect_screen_fallback.af6fcd8442442a8a8cdb.js"],"sak_unauthorized_fallback.js":["sak_unauthorized_fallback.bfe959c438269b5a8e7b.js"],"search_catalog_fallback.js":["search_catalog_fallback.33b516be865e66e235fe.js"],"sentry_fallback.js":["vendor_fallback.e98bf6f88913d9769cef.js","vendor~sentry_fallback.036cf01851542a378c1a.js","sentry_fallback.e88ef379b6007ca37382.js"],"settings_fallback.js":["settings_fallback.60a4b85193f3c76b6e38.js"],"short_video_fallback.js":["short_video_fallback.b71be48f4dd974a4ee09.js"],"stories_fallback.js":["icons_fallback.699cc26b7deae7f5496f.js","stories_fallback.f340bef5a5077eede155.js"],"stories_archive_fallback.js":["stories_archive_fallback.c4a3136e648b0505e10d.js"],"textlives_fallback.js":["icons_fallback.699cc26b7deae7f5496f.js","textlives_fallback.702e70da7185b7514707.js"],"thumbs_edit_fallback.js":["icons_fallback.699cc26b7deae7f5496f.js","thumbs_edit_fallback.9299ac7cc762d181006a.js"],"unauthorized_fallback.js":["icons_fallback.699cc26b7deae7f5496f.js","unauthorized_fallback.40753cb8a63d03e06180.js"],"unauthorized_search_fallback.js":["unauthorized_search_fallback.57eb0805e504b1c589be.js"],"video_fallback.js":["icons_fallback.699cc26b7deae7f5496f.js","video_fallback.0d49be44ca69ad1c6da5.js"],"vk_sans_observer_fallback.js":["vk_sans_observer_fallback.6a9a1f5860488cae5902.js"],"vkapps_fallback.js":["icons_fallback.699cc26b7deae7f5496f.js","vendor_fallback.e98bf6f88913d9769cef.js","b-4058e09ab5200ed1eb2e43364b82a2dd_fallback.895cf36be483713161b4.js","vkapps_fallback.84d2422c8dc15698442e.css","vkapps_fallback.bde64e4a7de919ed3537.js"],"vkui_playground_fallback.js":["vkui_playground_fallback.036c575c4a64959ff9d3.js"],"wall_posting_fallback.js":["wall_posting_fallback.d3c66e13831700b7b857.js"],"xss_playground_fallback.js":["xss_playground_fallback.b34e824c0eaa45873b50.js"],"youla_fallback.js":["youla_fallback.a99ec58777036ff20f50.js"],"mobile\/BadBrowser.css":["mobile\/BadBrowser.406088d446e5b3813207.css"],"mobile\/GameInstallScreen.css":["mobile\/GameInstallScreen.699bc98f953b5f18ca65.css"],"mobile\/PWAInstallGuide.css":["mobile\/PWAInstallGuide.cadd90fd5439a870c7bf.css"],"mobile\/ShortVideoPage.css":["mobile\/ShortVideoPage.ea83c27ac72918eeb8ae.css"],"mobile\/addresses_list.css":["mobile\/addresses_list.7e76fdf72c455a4ce88a.css"],"mobile\/apps.css":["mobile\/apps.b98ecd3176ec3e5a1379.css"],"mobile\/apps_stub.css":["mobile\/apps_stub.bdae021ff3347d31789c.css"],"mobile\/article_common.css":["mobile\/article_common.f00fe30c4478fa361342.css"],"mobile\/audio.css":["mobile\/audio.8777e00d349ec0d9bb7c.css"],"mobile\/audio_player_bottom.css":["mobile\/audio_player_bottom.161f8fa055b33a2c6389.css"],"mobile\/audio_player_mini.css":["mobile\/audio_player_mini.9fab9c45f73cd12e2c8b.css"],"mobile\/away.css":["mobile\/away.41c3b83aa3e5e2179039.css"],"mobile\/blog.css":["mobile\/blog.a7eef71a66819d0f6149.css"],"mobile\/business_notify_settings.css":["mobile\/business_notify_settings.88fb9e660c4c730b1349.css"],"mobile\/common.css":["mobile\/common.c499611db0e8530861ed.css"],"mobile\/crowdsource.css":["mobile\/crowdsource.4c65c3cffa3b4a18cc54.css"],"mobile\/feed.css":["mobile\/feed.6a2c7c74087d17503588.css"],"mobile\/fonts.css":["mobile\/fonts.8c5b220bf6f482881a90.css"],"mobile\/fonts_stories_new_avatar_story.css":["mobile\/fonts_stories_new_avatar_story.d35b894f24d83dfc9cfa.css"],"mobile\/group.css":["mobile\/group.3ac267aa8061d6d0191f.css"],"mobile\/join.css":["mobile\/join.41425df2ecd0077756ce.css"],"mobile\/legacy.css":["mobile\/legacy.5ed3b672d9bd55ff4a8d.css"],"mobile\/mail.css":["mobile\/mail.944f0efc7e57d321dc61.css"],"mobile\/market.css":["mobile\/market.8179a2b0432f2dd17422.css"],"mobile\/mini_apps_catalog.css":["mobile\/mini_apps_catalog.3cea0e65e5f3019eddfc.css"],"mobile\/money_transfer_history.css":["mobile\/money_transfer_history.bea614438094b881ae2e.css"],"mobile\/narratives.css":["mobile\/narratives.4cd7acc27c34e444d327.css"],"mobile\/oauth_android.css":["mobile\/oauth_android.79016eb4083cee1a6aae.css"],"mobile\/oauth_base.css":["mobile\/oauth_base.28eb093887055c9bcc3a.css"],"mobile\/oauth_ios.css":["mobile\/oauth_ios.fa7c4220abd3828e9730.css"],"mobile\/oauth_winmobile.css":["mobile\/oauth_winmobile.6ced614700d8303dff21.css"],"mobile\/owner_photo_upload.css":["mobile\/owner_photo_upload.fd3f8d644f63f5dbc474.css"],"mobile\/page_bottom_banners.css":["mobile\/page_bottom_banners.67eee7a6d2c217d5309e.css"],"mobile\/payments.css":["mobile\/payments.bce6986539bbbba98724.css"],"mobile\/photo.css":["mobile\/photo.fe9c9c5f6b6fc17d56fe.css"],"mobile\/profile.css":["mobile\/profile.53648e9216625156a2c8.css"],"mobile\/promocode.css":["mobile\/promocode.75d317d001709fdfe352.css"],"mobile\/qsearch.css":["mobile\/qsearch.eeea9342603576c2e7a1.css"],"mobile\/reactions.css":["mobile\/reactions.e15adef3b009ea5655a4.css"],"mobile\/reports.css":["mobile\/reports.03d61f1ab0f8cb97f0b4.css"],"mobile\/search.css":["mobile\/search.fd8985ed1eaa80e697cb.css"],"mobile\/settings.css":["mobile\/settings.64d1e98a00e8ac347edf.css"],"mobile\/special.css":["mobile\/special.076aacc47c18299436ce.css"],"mobile\/textlives.css":["mobile\/textlives.811abb86ff62d1545398.css"],"mobile\/unauthorized.css":["mobile\/unauthorized.1f7f0c2c32d66b3bb357.css"],"mobile\/unauthorized_search.css":["mobile\/unauthorized_search.3e2c635f35c61deeb6de.css"],"mobile\/variables.css":["mobile\/variables.02ab01a371470db8d7ff.css"],"mobile\/video.css":["mobile\/video.cc461a98de45ba676080.css"],"mobile\/vk_sans.css":["mobile\/vk_sans.2dece0ffdfb0795660a8.css"],"mobile\/vk_sans_faux.css":["mobile\/vk_sans_faux.a27b09878de5be335b4a.css"],"mobile\/vk_sans_faux_inline.css":["mobile\/vk_sans_faux_inline.36e4656c95d874f6f8ad.css"],"mobile\/vkui.css":["mobile\/vkui.0d6a49e529dd18a64255.css"],"mobile\/wall.css":["mobile\/wall.01098a6155106de5b7f8.css"],"mobile\/webview.css":["mobile\/webview.7690ea968ec761d1f4b3.css"],"mobile\/internal\/debugLog.css":["mobile\/internal\/debugLog.5e4b4e32cabdd726437a.css"],"mobile\/BadBrowser_fallback.css":["mobile\/BadBrowser_fallback.689fa173de1c195aea68.css"],"mobile\/GameInstallScreen_fallback.css":["mobile\/GameInstallScreen_fallback.2cc863ccb9ede767244e.css"],"mobile\/PWAInstallGuide_fallback.css":["mobile\/PWAInstallGuide_fallback.a652163793b4128c3027.css"],"mobile\/ShortVideoPage_fallback.css":["mobile\/ShortVideoPage_fallback.17aff9be95df0678de63.css"],"mobile\/addresses_list_fallback.css":["mobile\/addresses_list_fallback.bc437e96a27105d8a3e6.css"],"mobile\/apps_fallback.css":["mobile\/apps_fallback.d1cb5df09015b057892d.css"],"mobile\/apps_stub_fallback.css":["mobile\/apps_stub_fallback.0f52d8411b795bed2548.css"],"mobile\/article_common_fallback.css":["mobile\/article_common_fallback.e86532b313eec2e3714a.css"],"mobile\/audio_fallback.css":["mobile\/audio_fallback.23e4b06d3c41284f7ebe.css"],"mobile\/audio_player_bottom_fallback.css":["mobile\/audio_player_bottom_fallback.ccedff35cd265aba1a13.css"],"mobile\/audio_player_mini_fallback.css":["mobile\/audio_player_mini_fallback.e905406998dd9850a034.css"],"mobile\/away_fallback.css":["mobile\/away_fallback.41c3b83aa3e5e2179039.css"],"mobile\/blog_fallback.css":["mobile\/blog_fallback.8e7c8364dd852bd4f9a7.css"],"mobile\/business_notify_settings_fallback.css":["mobile\/business_notify_settings_fallback.ec575813e486f62ee8c3.css"],"mobile\/common_fallback.css":["mobile\/common_fallback.f2fa7a601e99a1074362.css"],"mobile\/crowdsource_fallback.css":["mobile\/crowdsource_fallback.587470757a38a09aa172.css"],"mobile\/feed_fallback.css":["mobile\/feed_fallback.c31b2d280b356b013d9a.css"],"mobile\/fonts_fallback.css":["mobile\/fonts_fallback.8c5b220bf6f482881a90.css"],"mobile\/fonts_stories_new_avatar_story_fallback.css":["mobile\/fonts_stories_new_avatar_story_fallback.d35b894f24d83dfc9cfa.css"],"mobile\/group_fallback.css":["mobile\/group_fallback.fa744b78d15d782c69e1.css"],"mobile\/join_fallback.css":["mobile\/join_fallback.32b9a4f0f3a889ec7b6b.css"],"mobile\/legacy_fallback.css":["mobile\/legacy_fallback.2b95eba516fb588edffb.css"],"mobile\/mail_fallback.css":["mobile\/mail_fallback.8014ed3d57f9ddf3e817.css"],"mobile\/market_fallback.css":["mobile\/market_fallback.0af0210b6ae92af36b42.css"],"mobile\/mini_apps_catalog_fallback.css":["mobile\/mini_apps_catalog_fallback.9bf22143c0ccc2aaf4e6.css"],"mobile\/money_transfer_history_fallback.css":["mobile\/money_transfer_history_fallback.a8b6c42cb98a718db36b.css"],"mobile\/narratives_fallback.css":["mobile\/narratives_fallback.ce4d4fb76617c96974e3.css"],"mobile\/oauth_android_fallback.css":["mobile\/oauth_android_fallback.1ea78e13ffd7ade254ba.css"],"mobile\/oauth_base_fallback.css":["mobile\/oauth_base_fallback.16fdd07697eaa8084dae.css"],"mobile\/oauth_ios_fallback.css":["mobile\/oauth_ios_fallback.0b71050f76b6ad139705.css"],"mobile\/oauth_winmobile_fallback.css":["mobile\/oauth_winmobile_fallback.45c2e9208621822b1052.css"],"mobile\/owner_photo_upload_fallback.css":["mobile\/owner_photo_upload_fallback.1fb24145e70ab89dfe13.css"],"mobile\/page_bottom_banners_fallback.css":["mobile\/page_bottom_banners_fallback.5f9d088f8d2cbe81cacd.css"],"mobile\/payments_fallback.css":["mobile\/payments_fallback.7a53507c0b9279e851aa.css"],"mobile\/photo_fallback.css":["mobile\/photo_fallback.3688d12ae2ed6c011acb.css"],"mobile\/profile_fallback.css":["mobile\/profile_fallback.e778f0d2f2321cad86bf.css"],"mobile\/promocode_fallback.css":["mobile\/promocode_fallback.1aa8a4979f831f369e3c.css"],"mobile\/qsearch_fallback.css":["mobile\/qsearch_fallback.2a13b06297e7f1270f79.css"],"mobile\/reactions_fallback.css":["mobile\/reactions_fallback.d23d405d0af0fbc2f2bb.css"],"mobile\/reports_fallback.css":["mobile\/reports_fallback.c63153869139f4bf1d9c.css"],"mobile\/search_fallback.css":["mobile\/search_fallback.fd8985ed1eaa80e697cb.css"],"mobile\/settings_fallback.css":["mobile\/settings_fallback.6516a86e4a7b51b5998b.css"],"mobile\/special_fallback.css":["mobile\/special_fallback.bdb1548f7a34c83145d3.css"],"mobile\/textlives_fallback.css":["mobile\/textlives_fallback.f98993656ce0f35efcd9.css"],"mobile\/unauthorized_fallback.css":["mobile\/unauthorized_fallback.7a1171234b462153c7d1.css"],"mobile\/unauthorized_search_fallback.css":["mobile\/unauthorized_search_fallback.34a83f1093369383996b.css"],"mobile\/variables_fallback.css":["mobile\/variables_fallback.5e84e5f8c0bc63286bae.css"],"mobile\/video_fallback.css":["mobile\/video_fallback.8481fa805584ea96b1bb.css"],"mobile\/vk_sans_fallback.css":["mobile\/vk_sans_fallback.deb7eb5d2fbff123558b.css"],"mobile\/vk_sans_faux_fallback.css":["mobile\/vk_sans_faux_fallback.a27b09878de5be335b4a.css"],"mobile\/vk_sans_faux_inline_fallback.css":["mobile\/vk_sans_faux_inline_fallback.36e4656c95d874f6f8ad.css"],"mobile\/vkui_fallback.css":["mobile\/vkui_fallback.0d6a49e529dd18a64255.css"],"mobile\/wall_fallback.css":["mobile\/wall_fallback.e52bfd9f821651fbbb72.css"],"mobile\/webview_fallback.css":["mobile\/webview_fallback.4fa6df9efd76f80b12c7.css"],"mobile\/internal\/debugLog_fallback.css":["mobile\/internal\/debugLog_fallback.84805ed2ff6541621603.css"]},"lang":3,"pe":{"vk_apps_svg_qr":1,"upload.send_upload_stat":1,"push_notifier":1,"notify_new_events_box":1,"mini_apps_web_add_to_favorites":1,"mini_apps_m_web_new_stub_page":1,"cookie_secure_default_true":1,"measure_module_navigation_stats":1,"measure_module_navigation_stats_mvk":1,"widgets_xdm_same_origin":1,"stickers_money_transfer_suggestions":1,"web2_story_box_enabled":1,"navigation_timespent":1,"market_item_recommendations_view_log":1,"market_item_others_view_log":1,"web_stats_transport_story_view":1,"registration_item_stat":1,"mvk_lazy_static_reload":1,"mute_mvk_err_peaks":1,"notifications_view_new":1,"ads_market_autopromotion_bookmarks_stats":1,"print_stickers_updated":1,"web_new_photo_editor":1,"web_new_photo_editor_crop":1,"web_photo_editor_hide_entrypoint":1,"web_stats_try_send":1,"expand_web_vitals_grade":1,"profile_questions_enabled":1,"update_private_snippets_by_queue":1,"stickers_catalog_reload_after_buy":1,"web_stats_send_on_events_limit":1,"batchify_web_stats":1,"sentry_js_sanitize_frames":1,"sentry_js_server_errors_integration":1,"sentry_js_handled_errors_integration":1,"sentry_js_known_issues_mvk_integration":1,"sentry_js_known_issues_web_integration":1,"sentry_js_web_timeouts_forwarding":1,"sentry_js_web_verbose":1,"stickers_web_new_ui":1,"ads_new_reports_web_tgb":1,"ads_autopromotion_web_geo":1,"recognize_mock_turn_off":1,"photo_recognition_web":1,"aliexpress_app_links_with_partner_links":1,"ads_new_reports_web_histories":1,"ads_new_reports_mvk_histories":1,"audio_unauth_preview":1,"audio_unauth_preview_box":1,"ads_easy_promote_goods_new_create_api":1,"unauthorized_media_layer_box":1,"messenger_web_themes_easter_egg":1,"mail_history_unread_counter_observer":1,"messenger_empty_pinned_support":1,"force_act_in_get_params":1,"market_suggest_search_queries":1,"mini_apps_action_menu_mvk":1,"mail_longpoll_unread_counter":1,"faq_clean_up_extra_spaces":1,"mail_fastchat_reforged":1,"inline_attaches_icons":1,"mvk_quick_search_canceled_requests":1,"mail_new_conversation_stickers_hint":1,"apps_vk_pay_id_new_for_market_payments":1,"test_folder_masks":1,"simplified_start_conversation":1,"microlandings_marketing_blocks":1,"js_errors_no_write_uncaught_errors":1,"fav_dialog_with_yourself":1,"market_albums_version_2_dnd":1,"mail_business_notify":1,"im_archive_web":1,"im_message_editable_sync":1,"mail_dialog_list_menu":1,"mail_new_ui_banner":1,"messages_new_empty_dialog_screen":1,"me_vkme_release":1,"me_new_ads_module_detect":1,"im_clocks_fix":1,"similar_groups_after_unsubscribe":1,"market_albums_autopromotion_modal":1,"market_related_items":1,"empty_tab_history_check":1,"mvk_redirect_to_app_without_target_url":1,"mvk_vkui_search":1,"one_item_post_promotion_entrypoints":1,"vk_ads_tgb_run_outer_js":1,"ecomm_web_classifieds_profile":1,"vko_vk_maps_enabled":1,"waf_ajax_request_enabled":1,"cookie_lite_js_save_stat":1,"longread_tts_web_player":1,"classifieds_vko_subscription":1,"classifieds_vko_my_profile_black_list":1,"classifieds_vko_my_profile":1,"vko_product_removed_product_actions":1,"mvk_waf_ajax_request_enabled":1,"groups_settings_tooltip":1,"classified_item_card_similar_products":1,"nospam_new_histogram":1},"ex":[],"acl":[],"audioAdsConfig":{"_":"_"}};
+            window.isMVK = true;
+            window.isNewMail = false;
+            window.isNewLongpoll = false;
+            window.audioSubscribe = false;
+            window.isArticleWebView = false;
+
+            var vkElem = document.querySelector('.vk');
+            var vkClass = vkElem.getAttribute('class');
+
+            function cssPropertySupported(pNames) {
+              var element = document.createElement('a');
+              var index = pNames.length;
+              try {
+                while (index--) {
+                  var name = pNames[index];
+
+                  element.style.display = name;
+                  if (element.style.display === name) {
+                    return true;
+                  }
+                }
+              } catch (pError) {}
+
+              return false;
+            }
+            var supports = {
+              js: true,
+              flex: cssPropertySupported('flex -webkit-flex -ms-flexbox -moz-box -webkit-box'.split(' ')),
+            };
+
+            supports.js && (vkClass = vkClass.replace('vk_js_no', 'vk_js_yes'));
+            supports.flex && (vkClass = vkClass.replace('vk_flex_no', 'vk_flex_yes'));
+            vkElem.setAttribute('class', vkClass);
+          })();
+   </script>
+   <script type="text/javascript">
+    <!--
+;/*top_script*/(function(){"use strict";var e=function e(){return Boolean(window.CSS&&CSS.supports&&CSS.supports("color","var(--custom-property)"))},t=function e(){return Boolean(window.matchMedia)},o=function e(){return document.documentElement.classList.contains("vk_flex_yes")},n=function e(){return Boolean(document.createElementNS)&&Boolean(document.createElementNS("http://www.w3.org/2000/svg","svg").createSVGRect)},i=function e(){return"MutationObserver"in window},r=function e(){return!window.nomodules};function a(e){c(e),e.hash_redirect&&s(e),e.al_ver&&(window.al={ver:e.al_ver}),document.addEventListener("DOMContentLoaded",(function(){e.help_hints&&window.helpHints&&window.helpHints.initHelpHints&&window.helpHints.initHelpHints(e.help_hints),e.detect_broken_static&&u()}))}function c(a){var c=a.iospwa_cookie,s=a.device_cookie,u=a.cookie_secure,d=a.cookie_samesite,l=a.cookie_path,p=a.cookie_domain,w=a.need_reload,m=new Date((new Date).getTime()+7776e6).toUTCString();!0===navigator.standalone&&-1===document.cookie.indexOf(c+"=1")&&(document.cookie=c+"=1; expires="+m+";"+u+d+" path="+l+"; domain="+p);var f=document,h=window,v="undefined",y="!",g="-",_=h.screen,M=_.width||0,k=_.height||0,T=h.devicePixelRatio||1,S=new RegExp("(^|;\\s+)"+s+"=([^;]+)"),H=(f.cookie.match(S)||[])[2]||"",b=H.split("/");if(H&&M==b[0]&&k==b[1]&&T==b[2]&&9===b[3].length);else{var R=[M,k,T,B()].join("/");f.cookie=s+"=; expires="+new Date(0).toUTCString()+";"+u+d+" path="+l,f.cookie=s+"="+R+"; expires="+m+";"+u+d+" path="+l+"; domain="+p,""!==f.cookie&&w&&location.reload()}function B(){var a=(function(){var e;try{e=new XMLHttpRequest}catch(t){try{e=new ActiveXObject("Msxml2.XMLHTTP")}catch(t){try{e=new ActiveXObject("Microsoft.XMLHTTP")}catch(e){}}}return e?"!":"-"})(),c=((s=f.createElement("div")).innerHTML='<input type="file" />',"file"!==(s=s.getElementsByTagName("input")[0]).type||s.disabled?"-":"!"),s,u="ontouchstart"in h?"!":"-",d="-",l,p,w,m,y;try{(typeof navigator.geolocation!==v||typeof h.google!==v&&typeof google.gears!==v||typeof device!==v&&typeof device.getServiceObject!==v||typeof Mojo!==v&&"Mojo.Service.Request"!=typeof Mojo.Service.Request)&&(d="!")}catch(e){}return[a,c,u,d,(function(e){try{var t=h.Audio?new Audio:f.createElement("audio");if(t.canPlayType&&t.canPlayType(e)&&"no"!==t.canPlayType(e))return"!"}catch(e){}return"-"})("audio/mpeg"),(function(e){try{for(var t=f.createElement("div"),o=["","webkit","Moz","ms","O"],n=0,i=o.length;n<i;n++){var r=o[n],a=r?r+e:e.toLowerCase();if(typeof t.style[a]!==v)return"!"}return"-"}catch(e){return"-"}})("Transform"),(h.XMLHttpRequest||h.XDomainRequest)&&(h.FormData||h.FileReader&&(h.XMLHttpRequest&&XMLHttpRequest.sendAsBinary||h.ArrayBuffer&&h.Uint8Array&&(h.MozBlobBuilder||h.WebKitBlobBuilder||h.BlobBuilder)))?"!":"-",r()?"!":"-",e()&&o()&&t()&&n()&&i()?"!":"-"].join("")}}function s(e){var t=e.cookie_secure,o=e.cookie_samesite,n=location,i=n.hash||"",r=i.substr(2);if("#/"===i.substr(0,2)){var a=window.locDomain,c=new Date;c.setTime(c.getTime()+864e5);var s="; expires="+c.toGMTString();document.cookie=["remixtmp_hash_nav","=",escape(n.href),s,"; path=/",""+t,""+o,a?"; domain=."+a:""].join(""),r.match(/^\/*(away|login)(\.php)?([^a-z0-9\.]|$)/)&&(r=""),n.replace(n.protocol+"//"+n.host+"/"+r)}}function u(){try{window.onDOMReady((function(){})),window.extend({},{})}catch(t){var e=new XMLHttpRequest;e.open("POST","/?act=broken_static_log&err="+encodeURIComponent(t.message),!0),e.send()}}return a})()({"hash_redirect":true,"device_cookie":"remixmdevice","iospwa_cookie":"remixmiospwa","cookie_path":"\/","cookie_domain":".vk.com","cookie_samesite":"","cookie_secure":" Secure;","need_reload":true,"help_hints":{"mvk:video_filters":{"id":"mvk:video_filters","active":false,"hash":null},"narratives:add_tooltip":{"id":"narratives:add_tooltip","active":false,"hash":null},"mvk:stories_archive:privacy_hint":{"id":"mvk:stories_archive:privacy_hint","active":false,"hash":null},"mvk:stories_archive:actions_hint":{"id":"mvk:stories_archive:actions_hint","active":false,"hash":null},"friends:best_friends_posting":{"id":"friends:best_friends_posting","active":false,"hash":null},"mini_apps:button_mvk_profile":{"id":"mini_apps:button_mvk_profile","active":false,"hash":null},"mini_apps:button_mvk_app_menu":{"id":"mini_apps:button_mvk_app_menu","active":false,"hash":null},"questions:profile_hint":{"id":"questions:profile_hint","active":false,"hash":null},"mini_apps:open_catalog_with_badges":{"id":"mini_apps:open_catalog_with_badges","active":false,"hash":null},"mini_apps:catalog_section_with_badges":{"id":"mini_apps:catalog_section_with_badges","active":false,"hash":null}},"detect_broken_static":true,"al_ver":""});
+//-->
+   </script>
+   <link href="https://st6-21.vk.com/css/mobile/legacy_fallback.2b95eba516fb588edffb.css" rel="stylesheet"/>
+   <link href="https://st6-21.vk.com/css/mobile/common_fallback.f2fa7a601e99a1074362.css" rel="stylesheet"/>
+   <link href="https://st6-21.vk.com/css/mobile/audio_fallback.23e4b06d3c41284f7ebe.css" rel="stylesheet"/>
+   <link as="style" href="https://st6-21.vk.com/css/mobile/vkui_fallback.0d6a49e529dd18a64255.css" rel="preload"/>
+   <link as="style" href="https://st6-21.vk.com/css/mobile/qsearch_fallback.2a13b06297e7f1270f79.css" rel="preload"/>
+   <link href="https://st6-21.vk.com/css/mobile/unauthorized_fallback.7a1171234b462153c7d1.css" rel="stylesheet"/>
+   <link href="https://st6-21.vk.com/css/mobile/owner_photo_upload_fallback.1fb24145e70ab89dfe13.css" rel="stylesheet"/>
+   <!--defer:["https:\/\/st6-21.vk.com\/css\/mobile\/vkui_fallback.0d6a49e529dd18a64255.css","https:\/\/st6-21.vk.com\/css\/mobile\/qsearch_fallback.2a13b06297e7f1270f79.css"]-->
+   <script src="https://st6-21.vk.com/dist/mobile/grip_fallback.86b8b1d353916a9e0d55.js?5e6c6bafaf3b1e4bdb7b9f913c9378146ccafd598adfdc466d2d540b1ddd2e41">
+   </script>
+   <script src="https://st6-21.vk.com/dist/mobile/icons_fallback.699cc26b7deae7f5496f.js?b7af65922b7d27d26f20c804aad02b7e45d3d010357e11bb9b64305f0f2ad97c">
+   </script>
+   <script src="https://st6-21.vk.com/dist/mobile/unauthorized_fallback.40753cb8a63d03e06180.js?b7e90fd6dba4ab7da230b85df4bc0a5a7381396b6d9717e23df98b33e3716ce6">
+   </script>
+   <script src="https://st6-21.vk.com/dist/mobile/owner_photo_upload_fallback.fa464bbf5e781e6f51c4.js?88a4a1cbd0ea613d92222f7a126d8ab4a2596ef30fccbdf96a68dce873ed6d46">
+   </script>
+   <link as="script" href="https://st6-21.vk.com/dist/mobile/vendor~icons_fallback.8abb65cae099c434fe84.js" rel="preload">
+    <link as="script" href="https://st6-21.vk.com/dist/mobile/vendor~search_fallback.802ac3b194b5f334feb9.js" rel="preload">
+     <link as="script" href="https://st6-21.vk.com/dist/mobile/qsearch_fallback.8b0aafa0a2a2e2c1970b.js" rel="preload">
+      <!--defer:["https:\/\/st6-21.vk.com\/dist\/mobile\/vendor~icons_fallback.8abb65cae099c434fe84.js","https:\/\/st6-21.vk.com\/dist\/mobile\/vendor~search_fallback.802ac3b194b5f334feb9.js","https:\/\/st6-21.vk.com\/dist\/mobile\/qsearch_fallback.8b0aafa0a2a2e2c1970b.js"]-->
+      <link href="https://vk.com/" rel="canonical">
+       <link href="android-app://com.vkontakte.android/vkontakte/m.vk.com/" rel="alternate">
+       </link>
+      </link>
+     </link>
+    </link>
+   </link>
+  </meta>
+ </head>
+ <body class="vk__page _ivk _hover vk_ios_no vk_stickers_hints_support_no opera_mini_no vk_safari_no vk__page_login vk_tabbar_static vk_al_no">
+  <script id="color-scheme-script" type="text/javascript">
+   <!--
+;/*body*/(function(){"use strict";function e(e){var o=e.colorSchemeMode,c=e.isForcedColorSchemeMode,r=e.isDarkSchemeGuideHidden,s=e.colorSchemesMap;if(window.colorScheme){var t=o;try{var i=sessionStorage.getItem("colorScheme");i&&(t=i,window.colorScheme.isModeSavingAllowed=!1),c&&(t=o,window.colorScheme.isModeSavingAllowed=!1,sessionStorage.setItem("colorScheme",o))}catch(e){}window.colorScheme.init({mode:t,schemesMap:s});var d=document.querySelector(".vk"),m=d.getAttribute("class");window.isSchemesSupported()&&(m=m.replace("vk_schemes_no","vk_schemes_yes")),d.setAttribute("class",m)}var n=document.getElementById("color-scheme-script");n.parentNode.removeChild(n)}return e})()({"colorSchemeMode":"auto","isForcedColorSchemeMode":false,"colorSchemesMap":null});
+//-->
+  </script>
+  <div class="layout">
+   <div class="layout__header mhead" id="vk_head">
+    <div class="hb_wrap">
+     <div class="hb_btn">
+     </div>
+    </div>
+   </div>
+   <div class="layout__body" id="vk_wrap">
+    <div class="layout__leftMenu" id="l">
+    </div>
+    <div class="layout__basis" id="m" role="main">
+     <div class="basis">
+      <div class="basis__header mhead basis__header_noBottomMenu basis__header_noshadow basis__header_noshadowAnim basis__header_unauthorized_actions basis__header_nohide" id="mhead">
+       <a accesskey="*" class="hb_wrap mhb_logo" href="/">
+        <div class="">
+         <div class="mhi_logo hb_btn">
+          <div aria-hidden="true" class="svgIcon svgIcon-vk_logo_24">
+           <svg fill="none" height="24" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+            <rect fill="#07F" height="24" rx="5.76" width="24">
+            </rect>
+            <path d="M12.82 17.5c-5.42 0-8.7-3.76-8.83-10h2.74c.09 4.59 2.17 6.53 3.77 6.93V7.5h2.63v3.96c1.54-.17 3.16-1.97 3.7-3.96h2.59A7.62 7.62 0 0 1 16 12.49a7.9 7.9 0 0 1 4.01 5.01h-2.84c-.6-1.9-2.07-3.37-4.05-3.57v3.57h-.31Z" fill="#fff">
+            </path>
+           </svg>
+          </div>
+         </div>
+        </div>
+        <h1 class="hb_btn mh_header">
+        </h1>
+       </a>
+      </div>
+      <div class="basis__menu">
+       <div class="VideoFilterBadgeFiller">
+       </div>
+      </div>
+      <div class="basis__content mcont" data-canonical="https://vk.com/" id="mcont">
+       <div class="screen_login">
+        <div class="PageBlock installApp">
+         <a class="installApp__link" href="https://vk.me/?act=dl">
+          <div class="installApp__link_wrap">
+           <div class="installApp__label">
+            Install the
+            <b>
+             VK
+            </b>
+            mobile app
+            <span class="installApp__arrow">
+            </span>
+           </div>
+          </div>
+         </a>
+        </div>
+        <div class="fit_box bl_cont new_form">
+         <div class="PageBlock">
+          <div class="form_item">
+           <div class="login_header">
+            Stay in touch on the go with VK mobile.
+           </div>
+           <form action="https://login.vk.com/?act=login&amp;to=&amp;ip_h=26484838a9ac77726b&amp;lg_domain_h=4a757113e4574dab17&amp;role=pda&amp;utf8=1&amp;_origin=https%3A%2F%2Fm.vk.com" method="POST" novalidate="">
+            <dl class="fi_row">
+             <dd>
+              <label class="TextInput TextInput_native" role="presentational">
+               <div class="TextInput__content">
+                <input autocomplete="username" class="TextInput__native" name="email" onblur="TextInput.onBlur(event, this);" onfocus="TextInput.onFocus(event, this);" oninput="TextInput.onChange(event);" placeholder="Phone or email" spellcheck="" type="email" value=""/>
+               </div>
+              </label>
+             </dd>
+            </dl>
+            <dl class="fi_row">
+             <dd>
+              <label class="TextInput PasswordInput" role="presentational">
+               <div class="TextInput__content">
+                <div class="TextInput__nativeWrap">
+                 <input autocomplete="current-password" class="TextInput__native" name="pass" onblur="TextInput.onBlur(event, this);" onfocus="TextInput.onFocus(event, this);" oninput="TextInput.onChange(event);" placeholder="Password" spellcheck="" type="password" value=""/>
+                </div>
+                <div class="TextInput__postfix">
+                 <button aria-expanded="false" class="PasswordInput__button" onclick="PasswordInput.toggleVisibility(event, this, true)" type="button">
+                  <div aria-hidden="true" class="svgIcon svgIcon-view_outline_24">
+                   <svg fill="none" height="24" width="24" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M12 4.6c5.2 0 10.4 4.24 10.4 7.4s-5.2 7.4-10.4 7.4S1.6 15.16 1.6 12 6.8 4.6 12 4.6zm0 1.8c-4.28 0-8.6 3.52-8.6 5.6s4.32 5.6 8.6 5.6 8.6-3.52 8.6-5.6-4.32-5.6-8.6-5.6zm0 2.2a3.4 3.4 0 1 1 0 6.8 3.4 3.4 0 0 1 0-6.8zm0 1.8a1.6 1.6 0 1 0 0 3.2 1.6 1.6 0 0 0 0-3.2z" fill="currentColor">
+                    </path>
+                   </svg>
+                  </div>
+                 </button>
+                </div>
+               </div>
+              </label>
+             </dd>
+            </dl>
+            <div class="fi_row_new">
+             <input class="button wide_button" type="submit" value="Sign in"/>
+            </div>
+            <div class="fi_row">
+             <div class="near_btn wide_button login_restore">
+              <a href="https://static.vk.com/restore" rel="noopener">
+               Forgot password?
+              </a>
+             </div>
+            </div>
+            <div class="login_new_user">
+             <div class="fi_header fi_header_light">
+              First time here?
+             </div>
+            </div>
+            <div class="fi_row" style="display: none">
+             <a class="button wide_button success" href="/join?hidden=1" rel="noopener">
+              Sign up for VK
+             </a>
+            </div>
+            <div class="fi_row">
+             <a class="button wide_button success" href="/join" rel="noopener">
+              Sign up for VK
+             </a>
+            </div>
+            <div class="socials">
+             <a class="social_button social_google" href="/login?act=google_sign">
+              <i class="social_icon">
+              </i>
+              Sign in with Google
+             </a>
+            </div>
+           </form>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="basis__footer mfoot" id="mfoot">
+       <div class="pfoot">
+        <ul class="footer_menu">
+         <li class="fm_row">
+          <a class="fm_item" href="/settings?act=change_regional&amp;hash=d4c7e0cd3dcb9e5083&amp;lang_id=0">
+           Русский
+          </a>
+         </li>
+         <li class="fm_row">
+          <a class="fm_item" href="/settings?act=change_regional&amp;hash=d4c7e0cd3dcb9e5083&amp;lang_id=1">
+           Українська
+          </a>
+         </li>
+         <li class="fm_row">
+          <a class="fm_item" href="/settings?act=select_lang">
+           all languages »
+          </a>
+         </li>
+        </ul>
+        <ul class="footer_menu" id="footer_menu">
+         <li class="fm_row">
+          <a class="fm_item" href="/fv?to=%2F%3F_fm%3D1%26_fm2%3D1">
+           Desktop version
+          </a>
+         </li>
+        </ul>
+       </div>
+      </div>
+      <div aria-hidden="true" class="_cntrs" style="height:0;overflow:hidden;">
+       <img alt="" height="1" src="https://sb.scorecardresearch.com/p?c1=2&amp;c2=13765216&amp;c3=&amp;c4=https%3A%2F%2Fm.vk.com%2F&amp;c5=&amp;c9=&amp;c15=&amp;cv=2.0&amp;cj=1&amp;rn=39064242" width="1"/>
+       <noscript>
+        <img height="1" src="//top-fwz1.mail.ru/counter?id=2579437;pid=0;r=" style="border:0;" width="1"/>
+       </noscript>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <noscript>
+   <img src="/?act=no_js&amp;hash=262eed624ef32aa84b" style="display: none"/>
+  </noscript>
+  <script type="text/javascript">
+   <!--
+parent&&parent!=window&&(document.getElementsByTagName('body')[0].innerHTML='');try{sessionStorage.set('is_mvk_tab', 1)}catch(e){};try {window.store.stickers = {"url_template":"https:\/\/vk.com\/sticker\/1-%id%-%size%"}}catch(e){};;(function (d, w) {
+var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true;
+ts.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//top-fwz1.mail.ru/js/code.js";
+var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
+if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
+})(document, window);
+//-->
+  </script>
+  <div id="vk_utils">
+  </div>
+  <div id="z">
+  </div>
+  <div id="MediaView_container">
+  </div>
+  <div id="vk_bottom">
+  </div>
+  <div id="theme_color_shim">
+  </div>
+ </body>
+</html>
